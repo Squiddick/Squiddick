@@ -2,7 +2,7 @@
 
 ⚡ I'm a intern backend developer <br/>
 📽️ I'm also a beggining content creator <br/>
-🌱 I’m currently learning Nest.js <br/>
+🌱 I’m currently learning Node.js and GO <br/>
 📫 How to reach me: [Instagram](https://www.instagram.com/squiddick3?igsh=MTZ6bWFvc2d5YnRjMA==), [Telegram](http://t.me/squiddicks)<br/>
 
 
